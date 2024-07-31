@@ -1,0 +1,19 @@
+en:
+  label: English
+  author: Qing Li Research Group
+  affiliation: Earth, Ocean and Atmospheric Sciences <br> The Hong Kong University of Science and Technology (Guangzhou)
+  hello: Hello
+  prefix: .
+  nav:
+    index:
+      label: About
+    people:
+      label: People
+    research:
+      label: Research
+    publications:
+      label: Publications
+    presentations:
+      label: Presentations
+    joinus:
+      label: Join us
